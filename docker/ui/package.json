@@ -1,0 +1,14 @@
+{
+  "name": "zoo-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "@vitejs/plugin-vue": "^4.2.0"
+  }
+}
